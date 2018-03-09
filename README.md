@@ -1,0 +1,2 @@
+# octo-curves
+Splatoon octo
