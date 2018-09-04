@@ -1,2 +1,2 @@
-# octo-curves
-Splatoon octo
+# Hermite and Bezier Curves
+
